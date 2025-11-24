@@ -15,4 +15,5 @@ int main(){
         cout << "El numero es impar" << endl;
     }
     
+    return 0;
 }
